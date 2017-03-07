@@ -8,7 +8,7 @@ class MyCheckbox extends Component {
         return (
             <div>
                 <input className="myInput" type="checkbox" value="off" />
-                <p>my p</p>
+                <p>my pjjkgj</p>
             </div>
         );
     }
